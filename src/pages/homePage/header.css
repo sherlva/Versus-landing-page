@@ -1,0 +1,42 @@
+.Header {
+    text-align: center;
+    
+background: linear-gradient(360deg, #222222 0%, rgba(0, 0, 0, 0) 100%), url(./../../../public/images/IMAGE.png);
+border-radius: 0px;
+}
+
+.Header h1 {
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 53px;
+    /* or 110% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+    padding: 150px 0px 0px 0px;
+}
+
+
+button {
+    border: 1px solid #00D6B4;
+    border-radius: 3px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+    /* identical to box height, or 146% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #00D6B4;
+    padding: 10px 26px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 140px;
+}

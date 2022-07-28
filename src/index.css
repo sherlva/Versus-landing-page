@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background: #222222;
+}
+
+.container{
+    width: 1320px;
+    margin: auto;
+}

@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.Footer {
+    text-align: center;
+    padding: 35px 0px 37px;
+}
+
+.Footer h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #C2C2C2;
+    margin-bottom: 10px;
+}
+
+.Footer p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    color: #999999;
+}

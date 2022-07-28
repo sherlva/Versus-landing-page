@@ -1,0 +1,22 @@
+.portfolio {
+    max-width: 1320px;
+    margin: auto;
+}
+.portfolio h2{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    padding: 50px 0px 40px;
+}
+
+.portfolio .images img{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
